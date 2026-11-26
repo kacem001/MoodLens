@@ -178,25 +178,6 @@ Training and validation curves show steady convergence without overfitting, stab
 
 ---
 
-## Repository Contents
-
-```text
-MoodLens/
-├── MoodLens_Training.ipynb           # Complete EDA, CNN architecture, training & evaluation notebook
-├── assets/
-│   ├── kacemlabs-logo.png            # KacemLabs brand emblem
-│   ├── app-preview.png               # Live web interface showcase
-│   ├── class-distribution.png        # Dataset emotion distribution chart
-│   ├── sample-classes.png            # Sample grayscale faces per class
-│   ├── training-curves.png           # Training & validation accuracy/loss curves
-│   ├── f1-scores.png                 # Per-class F1-score comparison chart
-│   ├── confusion-matrix.png          # Normalized confusion matrix heatmap
-│   └── sample-predictions.png        # 14-image PrivateTest prediction grid
-└── README.md                         # Unified project & model documentation
-```
-
----
-
 <div align="center">
   <p>Built by <strong>Kacem El Amine Latrach</strong> • <a href="https://kacem-el-amine-latrach.vercel.app/"><strong>Explore Portfolio</strong></a> • <a href="https://moodlens-mu.vercel.app/"><strong>Try MoodLens Live</strong></a></p>
 </div>
